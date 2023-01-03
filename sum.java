@@ -4,6 +4,8 @@ class sum
         System.out.println("hi hi");
         System.out.println("ok then");
         System.out.println("ok got it");
+        System.out.println("ok got it 2.0");
+
 
     }
 }
